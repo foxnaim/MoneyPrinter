@@ -1,3 +1,8 @@
+> **foxnaim** · Автоматическое создание роликов YouTube Shorts на Python с MoviePy
+>
+> Готовая основа под клиентский проект. Стек: Python.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # MoneyPrinter 💸
 
 Sponsored by Post Bridge
